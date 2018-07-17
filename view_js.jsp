@@ -2,7 +2,7 @@
 ABC
 <portlet:resourceURL var="wikiListAjaxURL" id="wikiListAjaxURL" >
 </portlet:resourceURL>
-
+dfvrereer
 <script type="text/javascript">
 
 $(document).ready(function(){
